@@ -94,7 +94,7 @@ The system follows a modular architecture, consisting of the following component
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/nids-ml.git
+   git clone https://github.com/muttu70/nids-ml.git
    cd nids-ml
    ```
 
